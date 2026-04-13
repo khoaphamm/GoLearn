@@ -1,4 +1,4 @@
-module dblearn
+module github.com/khoaphamm/golearn
 
 go 1.26.2
 

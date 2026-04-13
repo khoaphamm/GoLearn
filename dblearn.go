@@ -1,4 +1,4 @@
-package dblearn
+package golearn
 
 import (
 	"database/sql"
